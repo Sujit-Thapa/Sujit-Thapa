@@ -76,10 +76,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sujit-thapa&show_icons=true&locale=en&layout=compact" alt="sujit-thapa" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujit-thapa&" alt="sujit-thapa" />
-</p>
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=sujit-thapa&theme=react-dark" alt="sujit-thapa" />
-</p>
