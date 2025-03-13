@@ -5,6 +5,7 @@
 
 ---
 
+
 ##  Connect with me
 
 <p align="center">
@@ -40,6 +41,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sujit-thapa&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
+
 ---
+
 
 <p align="center"> Building scalable and high-performance web applications! </p>
