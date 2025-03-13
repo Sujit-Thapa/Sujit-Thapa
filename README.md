@@ -3,7 +3,7 @@
 
 
 
-
+---
 
 ##  Connect with me
 
@@ -24,7 +24,9 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,html,css,git,figma" />
 </p>
 
+
 ---
+
 
 ##  GitHub Stats
 
