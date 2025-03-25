@@ -3,8 +3,8 @@
 
 
 
----
 
+---
 
 
 ##  Connect with me
@@ -18,6 +18,8 @@
   </a>
 </p>
 
+
+
 ---
 
 ##  Tech Stack
@@ -28,6 +30,8 @@
 
 
 ---
+
+
 
 
 ##  GitHub Stats
@@ -43,7 +47,10 @@
 </p>
 
 
+
+
 ---
+
 
 
 <p align="center"> Building scalable and high-performance web applications! </p>
