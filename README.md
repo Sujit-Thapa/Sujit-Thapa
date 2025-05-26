@@ -51,5 +51,9 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sujit-thapa&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujit-thapa&theme=tokyonight" alt="GitHub Contribution Graph" />
 </p>
+
+---
+
+<p align="center"><strong>Let's build reliable, scalable, and innovative software together.</strong></p>
