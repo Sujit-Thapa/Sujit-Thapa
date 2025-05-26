@@ -1,11 +1,11 @@
-<h1 align="center">Hey there 👋, I'm Sujit Thapa</h1>
-<h3 align="center">🚀 Backend Developer | JavaScript Wizard | React Enthusiast</h3>
+<h1 align="center">Hi, I'm Sujit Thapa 👋</h1>
+<h3 align="center">Backend Developer | JavaScript & React Specialist | Tech Problem-Solver</h3>
 
-<p align="center">I love building fast, scalable, and meaningful digital experiences.</p>
+<p align="center">Focused on building robust, scalable, and user-centric web applications with modern technologies.</p>
 
 ---
 
-## 🌍 Let's Connect
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/sujit-thapa" target="_blank">
@@ -18,20 +18,25 @@
 
 ---
 
-## 🧰 Tech Toolbox
+## 💼 About Me
+
+- 🎓 Final-year Computer Engineering student with a strong foundation in software development  
+- 💡 Passionate about solving real-world problems through clean and scalable code  
+- 🧠 Proficient in JavaScript, TypeScript, and the React ecosystem  
+- 🏗️ Experienced in designing and building backend systems using Node.js, Express, and databases like MongoDB & PostgreSQL  
+- 🌍 Eager to collaborate on impactful projects and contribute to open-source communities  
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,html,css,git,figma" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-Clean & Scalable-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Performance & UX-success?style=flat-square" />
-</p>
-
 ---
 
-## 📈 GitHub Highlights
+## 📊 GitHub Highlights
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujit-thapa&theme=tokyonight" alt="GitHub Streak Stats" />
@@ -43,15 +48,4 @@
 
 ---
 
-## 🧠 A Bit About Me
-
-- 💼 Final-year Computer Engineering student
-- 🛠️ Currently building **HeyJob** — a platform like Upwork for Nepal with internship opportunities
-- 🌱 Constantly learning and leveling up in **React Native** and backend technologies
-- 📽️ Creating motion stories on my YouTube channel [**Beyond Icons**](https://www.youtube.com/@beyondicons)
-
----
-
-<p align="center"><strong>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</strong></p>
-
-<p align="center">Thanks for stopping by! 🚀</p>
+<p align="center"><strong>Let's build reliable, scalable, and innovative software together.</strong></p>
