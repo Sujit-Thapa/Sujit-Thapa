@@ -4,7 +4,6 @@
 
 <p align="center">Focused on building robust, scalable, and user-centric web applicaions with modern technologies.</p>
 
-
 ## 🌐 Connect with Me
 
 
