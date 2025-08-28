@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Sujit Thapa </h1>
+
 <h3 align="center">JavaScript & React Specialist | Tech Problem-Solver</h3>
 
 <p align="center">Focused on building robust, scalable, and user-centric web applicaions with modern technologies.</p>
