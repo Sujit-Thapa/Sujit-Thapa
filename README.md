@@ -1,43 +1,44 @@
-<h1 align="center">Hi, I'm Sujit Thapa </h1>
+<h1 align="center">👋 Hi, I'm Sujit Thapa</h1>
 
-<h3 align="center">JavaScript & React Specialist | Tech Problem-Solver</h3>
-
-
-<p align="center">Focused on building robust, scalable, and user-centric web applicaions with modern technologies.</p>
-
-## 🌐 Connect with Me
+<h3 align="center">JavaScript & React Native Developer | Tech Problem-Solver</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sujit-raj-thapa-12265125a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/sujit-thapa" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+Focused on building <strong>robust, scalable, and user-centric applications</strong> with modern technologies.
 </p>
-
 
 ---
 
-## 💼 About Me
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/sujit-raj-thapa-12265125a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/sujit-thapa" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-- 🎓 Final-year Computer Engineering student with a strong foundation in software development  
-- 💡 Passionate about solving real-world problems through clean and scalable code  
-- 🧠 Proficient in JavaScript, TypeScript, and the React ecosystem  
-- 🏗️ Experienced in designing and building backend systems using Node.js, Express, MongoDB, and PostgreSQL  
-- 🌍 Eager to collaborate on impactful projects and contribute to open-source communities  
+---
+
+## 💼 About Me  
+
+- 🎓 Computer Engineering graduate specializing in **JavaScript & React ecosystem**  
+- 💡 Passionate about **problem-solving, clean code, and scalable architectures**  
+- 📱 Currently focused on mastering **React Native** for cross-platform development  
+- 🧠 Strong foundation in **JavaScript, TypeScript, React, and Next.js**  
+- 🏗️ Backend experience with **Node.js, Express, MongoDB, PostgreSQL**  
+- 🌍 Open to **collaborations, freelancing, and open-source contributions**  
 
 ---
 
 ## 🛠️ Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,html,css,git,figma,reactnative" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,reactnative,nextjs,nodejs,express,mongodb,postgres,html,css,git,figma" />
 </p>
 
 ---
 
-## 📊 GitHub Highlights
+## 📊 GitHub Highlights  
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujit-thapa&theme=tokyonight" alt="GitHub Streak Stats" />
@@ -49,7 +50,7 @@
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Graph  
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujit-thapa&theme=tokyonight" alt="GitHub Contribution Graph" />
@@ -57,4 +58,4 @@
 
 ---
 
-<p align="center"><strong>Let's build reliable, scalable, and innovative software together.</strong></p>
+<p align="center"><strong>Let’s build reliable, scalable, and innovative software together. 🚀</strong></p>
