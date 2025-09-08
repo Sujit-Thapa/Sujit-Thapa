@@ -8,6 +8,7 @@ Focused on building <strong>robust, scalable, and user-centric applications</str
 
 ---
 
+
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/sujit-raj-thapa-12265125a/" target="_blank">
