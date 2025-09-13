@@ -1,11 +1,10 @@
 <h1 align="center">👋 Hi, I'm Sujit Thapa</h1>
 
-<h3 align="center">JavaScript & React Native Developer | Tech Problem-Solver</h3>
+<h3 align="center">React Native Developer | JavaScript Enthusiast | Problem-Solver</h3>
 
 <p align="center">
-Focused on building <strong>robust, scalable, and user-centric applications</strong> with modern technologies.
+Specialized in building <strong>cross-platform mobile apps</strong> with <strong>React Native</strong> while leveraging the power of the modern JavaScript ecosystem.
 </p>
-
 
 ---
 
@@ -23,25 +22,23 @@ Focused on building <strong>robust, scalable, and user-centric applications</str
 
 ## 💼 About Me  
 
-- 🎓 Computer Engineering graduate specializing in **JavaScript & React ecosystem**  
-- 💡 Passionate about **problem-solving, clean code, and scalable architectures**  
-- 📱 Currently focused on mastering **React Native** for cross-platform development  
-- 🧠 Strong foundation in **JavaScript, TypeScript, React, and Next.js**  
-- 🏗️ Backend experience with **Node.js, Express, MongoDB, PostgreSQL**  
-- 🌍 Open to **collaborations, freelancing, and open-source contributions**  
+- 🎓 Computer Engineering graduate specializing in **JavaScript & React Native**  
+- 📱 Passionate about building **scalable, user-friendly cross-platform mobile apps**  
+- ⚛️ Strong expertise in **React Native, React, and TypeScript**  
+- 🏗️ Backend knowledge with **Node.js, Express, MongoDB, PostgreSQL**  
+- 🌍 Open to **freelance projects, collaborations, and open-source contributions**  
+- 🚀 Currently mastering **mobile-first architectures & app optimization**  
 
 ---
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,reactnative,nextjs,nodejs,express,mongodb,postgres,html,css,git,figma" />
+  <img src="https://skillicons.dev/icons?i=react,reactnative,ts,js,nextjs,nodejs,express,mongodb,postgres,html,css,git,figma" />
 </p>
 
 ---
 
-
 ## 📊 GitHub Highlights  
-
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujit-thapa&theme=tokyonight" alt="GitHub Streak Stats" />
@@ -61,4 +58,4 @@ Focused on building <strong>robust, scalable, and user-centric applications</str
 
 ---
 
-<p align="center"><strong>Let’s build reliable, scalable, and innovative software together. 🚀</strong></p>
+<p align="center"><strong>Let’s build sleek, scalable, and impactful mobile apps together. 📱🚀</strong></p>
