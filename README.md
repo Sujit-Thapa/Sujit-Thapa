@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Sujit Thapa</h1>
+<h1 align="center">Hi, I'm Sujit Thapa</h1>
 
 <!-- 🔥 Typing animation banner -->
 <p align="center">
