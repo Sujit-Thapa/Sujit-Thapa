@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Sujit Thapa</h1>
 
+
 <!-- 🔥 Typing animation banner -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=38BDF8&center=true&vCenter=true&width=600&lines=React+Native+Developer;JavaScript+%7C+TypeScript+Enthusiast;Building+Scalable+Cross-Platform+Apps;Open+Source+Contributor+%F0%9F%9A%80" alt="Typing Animation" />
