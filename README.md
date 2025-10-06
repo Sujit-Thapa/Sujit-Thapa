@@ -16,6 +16,7 @@ Specialized in building <strong>cross-platform mobile apps</strong> with <strong
 ---
 
 ## 🌐 Connect with Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/sujit-raj-thapa-12265125a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
