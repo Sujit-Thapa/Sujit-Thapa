@@ -35,7 +35,6 @@ Specialized in building <strong>cross-platform mobile apps</strong> with <strong
 - 🏗️ Backend knowledge with **Node.js, Express, MongoDB, PostgreSQL**  
 - 🌍 Open to **freelance projects, collaborations, and open-source contributions**  
 - 🚀 Currently mastering **mobile-first architectures & app optimization**  
-
 ---
 
 ## 🛠️ Tech Stack
