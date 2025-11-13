@@ -48,7 +48,6 @@ Specialized in building <strong>cross-platform mobile apps</strong> with <strong
 </p>
 
 ---
-
 ## 🚀 Featured Projects  
 
 - 📱 **HeyJob** – Freelancing & internship platform (Next.js + MongoDB + React Native)  
