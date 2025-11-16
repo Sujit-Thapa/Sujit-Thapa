@@ -10,7 +10,7 @@
 <p align="center">
 Specialized in building <strong>cross-platform mobile apps</strong> with <strong>React Native</strong> while leveraging the power of the modern JavaScript ecosystem.
 </p>
----
+
 
 ## 🌐 Connect with Me
 
