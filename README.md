@@ -55,11 +55,4 @@
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/sujit-thapa/sujit-thapa/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 <p align="center"><strong>Let’s build sleek, scalable, and impactful mobile apps together. 📱✨</strong></p>
