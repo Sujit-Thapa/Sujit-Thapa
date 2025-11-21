@@ -8,6 +8,7 @@
 
 ---
 
+
 ## 👨‍💻 About Me
 - 🎓 Computer Engineering graduate focused on **JavaScript & React Native**
 - 📱 Building **scalable, smooth, cross‑platform mobile apps**
