@@ -19,7 +19,6 @@
 
 ---
 
-
 ## 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,reactnative,ts,js,nextjs,nodejs,express,mongodb,postgres,html,css,git,figma" />
