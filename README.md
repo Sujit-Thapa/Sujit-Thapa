@@ -1,8 +1,4 @@
-# Hi, I'm Sujit Thapa 👋
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=38BDF8&center=true&vCenter=true&width=600&lines=React+Native+Developer;JavaScript+%7C+TypeScript+Enthusiast;Building+Cross-Platform+Apps;Open+Source+Contributor+🚀" />
-</p>
+# Hi, I'm Sujit Thapa 
 
 <p align="center"><strong>React Native Developer • JavaScript Enthusiast • Problem Solver</strong></p>
 
