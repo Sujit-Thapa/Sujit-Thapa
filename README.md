@@ -28,8 +28,7 @@
 ---
 
 ## 🚀 Projects
-- **HeyJob** — Freelance & internship platform (Next.js + MongoDB + React Native)
-- **Chat‑App** — Real‑time messaging app (React + Firebase)
+
 
 ---
 
