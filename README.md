@@ -4,8 +4,6 @@
   <strong>React Native Developer • JavaScript Enthusiast • Problem Solver</strong>
 </p>
 
-
-
 ## 👨‍💻 About Me
 - 🎓 Computer Engineering graduate focused on **JavaScript & React Native**
 - 📱 Building **scalable, smooth, cross-platform mobile applications**
