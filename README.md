@@ -13,6 +13,7 @@
 - 🤝 Open to freelance work, collaborations, and open-source contributions
 
 ---
+
 ## 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,nodejs,express,mongodb,postgres,html,css,git,figma" />
