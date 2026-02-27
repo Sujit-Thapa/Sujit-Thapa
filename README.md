@@ -11,7 +11,6 @@
 - 🛠️ Backend experience using **Node.js, Express, MongoDB, PostgreSQL**
 - 🌱 Currently leveling up in **mobile-first architecture and app optimization**
 - 🤝 Open to freelance work, collaborations, and open-source contributions
-
 ---
 ## 🛠️ Tech Stack
 <p align="center">
