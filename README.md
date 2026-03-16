@@ -4,7 +4,7 @@
   <strong>React Native Developer • JavaScript Enthusiast • Problem Solver</strong>
 </p>
 
-## 👨‍💻 About Me
+##  About Me
 - 🎓 Computer Engineering graduate focused on **JavaScript & React Native**
 - 📱 Building **scalable, smooth, cross-platform mobile applications**
 - ⚛️ Strong experience with **React Native, React, and TypeScript**
@@ -14,7 +14,7 @@
   
 --
 
-## 🛠️ Tech Stack
+## Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,nodejs,express,mongodb,postgres,html,css,git,figma" />
 </p>
