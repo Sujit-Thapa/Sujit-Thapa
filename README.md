@@ -44,7 +44,6 @@
 </p>
 
 ---
-
 <p align="center">
   <strong>Let’s build sleek, scalable, and impactful mobile apps together. 📱✨</strong>
 </p>
