@@ -4,14 +4,6 @@
   <strong>React Native Developer • JavaScript Enthusiast • Problem Solver</strong>
 </p>
 
-##  About Me
-- 🎓 Computer Engineering graduate focused on **JavaScript & React Native**
-- 📱 Building **scalable, smooth, cross-platform mobile applications**
-- ⚛️ Strong experience with **React Native, React, and TypeScript**
-- 🛠️ Backend experience using **Node.js, Express, MongoDB, PostgreSQL**
-- 🌱 Currently leveling up in **mobile-first architecture and app optimization**
-- 🤝 Open to freelance work, collaborations, and open-source contributions
-
 
 
 ## 📈 GitHub Stats
