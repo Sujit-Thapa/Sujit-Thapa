@@ -1,25 +1,27 @@
-# Hi, I'm Sujit Thapa
+# Sujit Thapa
+
+**React Native Developer · JavaScript · TypeScript**
+
+Computer Engineering graduate focused on building clean, scalable, and reliable mobile applications.
+
+* Building with **React Native, React & TypeScript**
+* Backend experience with **Node.js, Express, MongoDB & PostgreSQL**
+* Interested in **mobile architecture, performance & developer experience**
+* Open to **freelance work, collaborations & open source**
+
+### Tech
+
+`React Native` · `React` · `TypeScript` · `JavaScript` · `Node.js` · `Express` · `MongoDB` · `PostgreSQL`
+
+### GitHub
 
 <p align="center">
-  <strong>React Native Developer • JavaScript Enthusiast • Problem Solver</strong>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujit-thapa&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sujit-thapa&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
-
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujit-thapa&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sujit-thapa&layout=compact&theme=tokyonight" />
-</p>
 ---
-## 🗂️ Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujit-thapa&theme=tokyonight" />
-</p>
 
 <p align="center">
-  <strong>Let’s build sleek, scalable, and impactful mobile apps together. 📱✨</strong>
+  <sub>Building useful things, one commit at a time.</sub>
 </p>
