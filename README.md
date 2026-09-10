@@ -20,8 +20,6 @@ Computer Engineering graduate focused on building clean, scalable, and reliable 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sujit-thapa&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
----
-
 <p align="center">
   <sub>Building useful things, one commit at a time.</sub>
 </p>
