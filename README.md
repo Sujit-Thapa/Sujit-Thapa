@@ -10,7 +10,6 @@ Computer Engineering graduate focused on building clean, scalable, and reliable 
 * Open to **freelance work, collaborations & open source**
 
 ### Tech
-
 `React Native` · `React` · `TypeScript` · `JavaScript` · `Node.js` · `Express` · `MongoDB` · `PostgreSQL`
 
 ### GitHub
