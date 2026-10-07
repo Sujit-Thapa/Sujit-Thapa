@@ -12,6 +12,7 @@ Computer Engineering graduate focused on building clean, scalable, and reliable 
 ### Tech
 `React Native` · `React` · `TypeScript` · `JavaScript` · `Node.js` · `Express` · `MongoDB` · `PostgreSQL`
 
+
 ### GitHub
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujit-thapa&theme=tokyonight&hide_border=true" height="150" />
