@@ -1,7 +1,6 @@
 # Sujit Thapa
 
 React Native Developer · JavaScript · TypeScript
-
 Computer Engineering graduate focused on building clean, scalable, and reliable mobile applications.
 
 * Building with **React Native, React & TypeScript**
