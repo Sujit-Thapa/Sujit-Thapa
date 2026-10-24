@@ -3,7 +3,6 @@
 
 React Native Developer · JavaScript · TypeScript
 Computer Engineering graduate focused on building clean, scalable, and reliable mobile applications.
-
 * Building with **React Native, React & TypeScript**
 * Backend experience with **Node.js, Express, MongoDB & PostgreSQL**
 * Interested in **mobile architecture, performance & developer experience**
