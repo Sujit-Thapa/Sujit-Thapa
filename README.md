@@ -8,7 +8,6 @@ Computer Engineering graduate building clean, scalable and reliable mobile apps.
 - 🛠️ Backend with **Node.js, Express, MongoDB & PostgreSQL**
 - ⚡ Interested in **mobile architecture, performance & developer experience**
 - 🤝 Open to **freelance work, collaborations & open source**
-
 ### Tech
 `React Native` · `React` · `TypeScript` · `JavaScript` · `Node.js` · `Express` · `MongoDB` · `PostgreSQL`
 
