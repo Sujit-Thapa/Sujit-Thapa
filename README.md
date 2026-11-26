@@ -17,7 +17,6 @@ Computer Engineering graduate building clean, scalable and reliable mobile apps.
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sujit-thapa&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
-
 <p align="center">
   <sub>Building useful things, one commit at a time.</sub>
 </p>
